@@ -25,3 +25,8 @@
 
 ## Cyber and security panel
 - backup version for fast upload (after the hacking)
+
+## Ran Ben Zik
+- every line of code secured
+- updated its secured
+- phpcs etc
