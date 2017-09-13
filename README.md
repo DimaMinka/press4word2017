@@ -30,3 +30,13 @@
 - every line of code secured
 - updated its secured
 - phpcs etc
+
+## Seo panel
+- ncr for google search
+- don't trust to google
+- custom for speed, speed for seo
+- redirect path chrome extension
+- friendly url
+- multi areas for keywords (footer, title, desc etc)
+- sceaming frog spider 8.1 - tool for seo
+- custom meta
