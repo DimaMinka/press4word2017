@@ -22,3 +22,6 @@
 ![conf10](https://i.imgur.com/lYA1dkN.jpg)
 ![conf11](https://i.imgur.com/0QI1Hog.jpg)
 ![conf12](https://i.imgur.com/eSsSmC3.jpg)
+
+## Cyber and security panel
+- backup version for fast upload (after the hacking)
